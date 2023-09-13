@@ -1,0 +1,9 @@
+body {
+  background: url('/img/register-background.jpg');
+}
+
+.register-form {
+  display: flex;
+  flex-direction: column;
+  background-color: rgba(20, 156, 178, 0.35);
+}
